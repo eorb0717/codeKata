@@ -1,7 +1,8 @@
-// 23번 풀이 
+// 23번 풀이 배열 자르기
 function solution(numbers, num1, num2) {
     let answer = 0;
     answer = numbers.splice(num1, num2 - num1 + 1)
+    // answer = numbers.slice(num1, num2 + 1);
     return answer
 }
 
