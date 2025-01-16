@@ -55,4 +55,3 @@ console.log(solution("BCBdbe", "B"));
     // "f"를 제외한 "abcde"만 str에 할당되어 결과값을 얻을 수 있다.
 */ 
 
-// console.log(typeof wholeStr);
