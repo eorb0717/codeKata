@@ -16,7 +16,6 @@ console.log(solution("BCBdbe", "B"));
 // })
 // let wholeStr = splitStr.join("");
 
-
 // console.log(typeof wholeStr);
 
 /*
