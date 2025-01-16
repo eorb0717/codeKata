@@ -9,13 +9,17 @@ function solution(my_string, letter) {
 
 console.log(solution("abcdef", "f"));
 console.log(solution("BCBdbe", "B"));
+<<<<<<< HEAD
 
+=======
+>>>>>>> b543175 (프로그래머스 Lv.0 문제풀이)
 // let str = "abcdef";
 // let splitStr = str.split("").filter((split) => {
 //     return split !== "f"
 // })
 // let wholeStr = splitStr.join("");
 
+<<<<<<< HEAD
 // console.log(typeof wholeStr);
 
 /*
@@ -53,3 +57,6 @@ console.log(solution("BCBdbe", "B"));
     // 따라서 arr[0], arr[1], arr[2]와 같은 방식으로 연산해주고 마지막인 arr[5]는 "f"이므로 
     // "f"를 제외한 "abcde"만 str에 할당되어 결과값을 얻을 수 있다.
 */ 
+=======
+// console.log(typeof wholeStr);
+>>>>>>> b543175 (프로그래머스 Lv.0 문제풀이)
